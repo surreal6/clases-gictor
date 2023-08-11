@@ -2,9 +2,17 @@
 
 ## comandos
 
+### status
+
 ### clone
 
+### add
+
 ### commit
+
+### push
+
+### pull
 
 ### checkout
 
